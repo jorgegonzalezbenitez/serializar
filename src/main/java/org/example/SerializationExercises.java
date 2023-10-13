@@ -1,6 +1,5 @@
 package org.example;
 
-
 import org.example.model.Movie;
 import org.example.model.Session;
 import org.example.model.Theater;
