@@ -15,7 +15,6 @@ import java.nio.file.Paths;
 
 
 
-
 public class SerializationExercises {
     /*
         Should define the class for the concepts Movie, Theater and Session.
